@@ -33,7 +33,11 @@ Parameters = 164,488
 
 Created following individual modules for transformations, models, training code and test code and called these modules from main Python Notebook code.
 
+
 mymodels.py
+
 mytrain.py
+
 mytest.py
+
 At Epoch = 71, Test Accuracy is 84.12%
